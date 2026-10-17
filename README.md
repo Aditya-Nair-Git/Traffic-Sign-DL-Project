@@ -6,7 +6,7 @@ Deep learning experiments for traffic sign recognition using convolutional neura
 
 ### Traffic Sign Detection using CNN Models
 
-**[📥 Read the Research Paper (PDF)](report/Traffic%20Sign%20Detection%20using%20CNN%20Models.PDF)**
+[Read the Research Paper](./Traffic%20Sign%20Detection%20using%20CNN%20Models.PDF)
 
 The accompanying paper explores traffic sign classification using CNN-based models and residual network architectures, using the German Traffic Sign Recognition Benchmark (GTSRB). It includes the methodology, experimental discussion, confusion matrices, training curves, and classification outputs.
 
