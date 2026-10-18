@@ -3,7 +3,7 @@
 Deep learning experiments for traffic sign recognition using convolutional neural networks and pretrained architectures. This project explores model development, training, evaluation, and prediction across multiple notebook versions.
 
 <p align="center">
-  <img src="assets/traffic-sign-classes.png" alt="Examples of traffic sign classes" width="700">
+  <img src="assets/traffic-sign-classes.png" alt="Examples of traffic sign classes" width="380">
 </p>
 
 <p align="center"><em>Traffic sign classes used to illustrate the recognition task.</em></p>
