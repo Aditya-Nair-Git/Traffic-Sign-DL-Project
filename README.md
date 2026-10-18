@@ -2,6 +2,12 @@
 
 Deep learning experiments for traffic sign recognition using convolutional neural networks and pretrained architectures. This project explores model development, training, evaluation, and prediction across multiple notebook versions.
 
+<p align="center">
+  <img src="assets/traffic-sign-classes.png" alt="Examples of traffic sign classes" width="700">
+</p>
+
+<p align="center"><em>Traffic sign classes used to illustrate the recognition task.</em></p>
+
 ## 📄 Research Paper
 
 ### Traffic Sign Detection using CNN Models
@@ -114,8 +120,8 @@ The accompanying research paper discusses the reported results for its experimen
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aditya-Nair-Git/Traffic-Sign-Detection.git
-cd Traffic-Sign-Detection
+git clone https://github.com/Aditya-Nair-Git/Traffic-Sign-DL-Project.git
+cd Traffic-Sign-DL-Project
 ```
 
 ### 2. Install dependencies
@@ -149,15 +155,21 @@ Open the desired notebook and run its cells in order.
 ## 📁 Repository Structure
 
 ```text
-Traffic-Sign-Detection/
+Traffic-Sign-DL-Project/
 ├── README.md
+├── Traffic Sign Detection using CNN Models.PDF
+├── assets/
+│   ├── traffic-sign-classes.png
+│   ├── cnn-architecture.png
+│   ├── custom-cnn-confusion-matrix.png
+│   ├── tinyresnet-confusion-matrix.png
+│   ├── tinyresnet-accuracy.png
+│   └── tinyresnet-loss.png
 ├── dlprojfinal.ipynb
 ├── dlprojfinalV2.ipynb
 ├── Final_V_3.ipynb
 ├── Final_V_4.ipynb
-├── Final_v5.ipynb
-└── report/
-    └── Traffic Sign Detection using CNN Models.PDF
+└── Final_v5.ipynb
 ```
 
 ## 🔭 Potential Future Improvements
