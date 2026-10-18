@@ -2,11 +2,40 @@
 
 Deep learning experiments for traffic sign recognition using convolutional neural networks and pretrained architectures. This project explores model development, training, evaluation, and prediction across multiple notebook versions.
 
-<p align="center">
-  <img src="assets/traffic-sign-classes.png" alt="Examples of traffic sign classes" width="380">
-</p>
+## 🖼️ Project Figures
 
-<p align="center"><em>Traffic sign classes used to illustrate the recognition task.</em></p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/traffic-sign-classes.png" alt="Examples of traffic sign classes" width="280"><br>
+      <sub>Traffic sign classes</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/cnn-architecture.png" alt="CNN architecture" width="100%"><br>
+      <sub>CNN architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/custom-cnn-confusion-matrix.png" alt="Custom CNN confusion matrix" width="100%"><br>
+      <sub>Custom CNN confusion matrix</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/tinyresnet-confusion-matrix.png" alt="TinyResNet confusion matrix" width="100%"><br>
+      <sub>TinyResNet confusion matrix</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/tinyresnet-accuracy.png" alt="TinyResNet accuracy plot" width="100%"><br>
+      <sub>TinyResNet accuracy</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/tinyresnet-loss.png" alt="TinyResNet loss plot" width="100%"><br>
+      <sub>TinyResNet loss</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📄 Research Paper
 
