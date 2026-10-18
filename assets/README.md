@@ -1,0 +1,1 @@
+This folder contains figures extracted from the research paper for display in the project README.
